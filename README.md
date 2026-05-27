@@ -1,6 +1,3 @@
-# darkest-realm-legal
-Privacy Policy — Darkest Realm
-Copy everything between the lines below into your privacy.md file on GitHub:
 
 # Privacy Policy — Darkest Realm
 
